@@ -14,7 +14,13 @@ This script demonstrates object detection using a pre-trained Faster R-CNN model
 Install dependencies using pip:
 
 ```bash
-pip install torch torchvision opencv-python numpy matplotlib
+pip3 install torch torchvision opencv-python numpy matplotlib
+```
+
+Install requirements
+
+```bash
+pip3 install -r requirements
 ```
 
 Run script with sample image
