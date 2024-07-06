@@ -20,5 +20,5 @@ pip install torch torchvision opencv-python numpy matplotlib
 Run script with sample image
 
 ```bash
-python object_detection.py
+python app.py
 ```
