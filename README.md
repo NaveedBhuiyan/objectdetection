@@ -28,3 +28,13 @@ Run script with sample image
 ```bash
 python app.py
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [fasterrcnn_resnet50_fpn](https://pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html) for Object detection detection.
+- [OpenCV](https://opencv.org/) for computer vision operations.
+- [SciPy](https://www.scipy.org/) for scientific computing.
